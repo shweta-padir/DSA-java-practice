@@ -1,0 +1,168 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "H",
+      "request": "launch",
+      "mainClass": "H",
+      "projectName": "basic java_bac39b37"
+    },
+    {
+      "type": "java",
+      "name": "Hello",
+      "request": "launch",
+      "mainClass": "Hello",
+      "projectName": "basic java_bac39b37"
+    },
+    {
+      "type": "java",
+      "name": "NumberSum",
+      "request": "launch",
+      "mainClass": "NumberSum",
+      "projectName": "basic java_bac39b37"
+    },
+    {
+      "type": "java",
+      "name": "NO_SUM",
+      "request": "launch",
+      "mainClass": "NO_SUM",
+      "projectName": "basic java_bac39b37"
+    },
+    {
+      "type": "java",
+      "name": "Palindrome",
+      "request": "launch",
+      "mainClass": "Palindrome",
+      "projectName": "basic java_bac39b37"
+    },
+    {
+      "type": "java",
+      "name": "DecimalToBinary",
+      "request": "launch",
+      "mainClass": "DecimalToBinary",
+      "projectName": "basic java_bac39b37"
+    },
+    {
+      "type": "java",
+      "name": "BinaryToDecimal",
+      "request": "launch",
+      "mainClass": "BinaryToDecimal",
+      "projectName": "basic java_bac39b37"
+    },
+    {
+      "type": "java",
+      "name": "binaryTodecimal",
+      "request": "launch",
+      "mainClass": "binaryTodecimal",
+      "projectName": "basic java_bac39b37"
+    },
+    {
+      "type": "java",
+      "name": "demo",
+      "request": "launch",
+      "mainClass": "demo",
+      "projectName": "basic java_bac39b37"
+    },
+    {
+      "type": "java",
+      "name": "binTOdec",
+      "request": "launch",
+      "mainClass": "binTOdec",
+      "projectName": "basic java_bac39b37"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "BottomLeftTriangle",
+      "request": "launch",
+      "mainClass": "BottomLeftTriangle",
+      "projectName": "basic java_bac39b37"
+    },
+    {
+      "type": "java",
+      "name": "Bottomright",
+      "request": "launch",
+      "mainClass": "Bottomright",
+      "projectName": "basic java_bac39b37"
+    },
+    {
+      "type": "java",
+      "name": "Demo",
+      "request": "launch",
+      "mainClass": "Demo",
+      "projectName": "basic java_bac39b37"
+    },
+    {
+      "type": "java",
+      "name": "Floydtriangle",
+      "request": "launch",
+      "mainClass": "Floydtriangle",
+      "projectName": "basic java_bac39b37"
+    },
+    {
+      "type": "java",
+      "name": "Numberpattern",
+      "request": "launch",
+      "mainClass": "Numberpattern",
+      "projectName": "basic java_bac39b37"
+    },
+    {
+      "type": "java",
+      "name": "Numberpattern2",
+      "request": "launch",
+      "mainClass": "Numberpattern2",
+      "projectName": "basic java_bac39b37"
+    },
+    {
+      "type": "java",
+      "name": "TopLeft",
+      "request": "launch",
+      "mainClass": "TopLeft",
+      "projectName": "basic java_bac39b37"
+    },
+    {
+      "type": "java",
+      "name": "Topright",
+      "request": "launch",
+      "mainClass": "Topright",
+      "projectName": "basic java_bac39b37"
+    },
+    {
+      "type": "java",
+      "name": "Xpattern",
+      "request": "launch",
+      "mainClass": "Xpattern",
+      "projectName": "basic java_bac39b37"
+    },
+    {
+      "type": "java",
+      "name": "hollowsquare",
+      "request": "launch",
+      "mainClass": "hollowsquare",
+      "projectName": "basic java_bac39b37"
+    },
+    {
+      "type": "java",
+      "name": "prime_number",
+      "request": "launch",
+      "mainClass": "prime_number",
+      "projectName": "basic java_bac39b37"
+    },
+    {
+      "type": "java",
+      "name": "squarePattern",
+      "request": "launch",
+      "mainClass": "squarePattern",
+      "projectName": "basic java_bac39b37"
+    }
+  ]
+}
